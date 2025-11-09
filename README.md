@@ -3,7 +3,7 @@ I'm a passionate developer and electronics enthusiast from Bosnia and Herzegovin
 
 ## 🧰 Skills
 C, C++, C#, JavaScript, HTML, CSS, SQL  
-Microsoft Office Suite | PCB Design (Proteus, Eagle, Circuit Wizard)  
+Microsoft Office Suite | PCB Design (Proteus, Eagle, Circuit Wizard, Multisim, LOGO! Comfort, Logisim)  
 
 ## 💼 Projects
 ⚔️ WH40k Tracker
