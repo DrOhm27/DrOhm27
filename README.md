@@ -30,5 +30,9 @@ Microsoft Office Suite | PCB Design (Proteus, Eagle, Circuit Wizard)
  - A simple calculator app
    ( https://github.com/DrOhm27/Calculator )
 
+ 🏥 Hospital archive
+ - A simple hospital archive application to help manage and track employees, patients and hospital departments
+   ( https://github.com/DrOhm27/Hospital-archive )
+
 ## 📫 Contact
 - Email: muhamedmujanovic2722005@gmail.com
