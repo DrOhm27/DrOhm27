@@ -34,5 +34,9 @@ Microsoft Office Suite | PCB Design (Proteus, Eagle, Circuit Wizard, Multisim, L
  - A simple hospital archive application to help manage and track employees, patients and hospital departments
    ( https://github.com/DrOhm27/Hospital-archive )
 
+📚 Library manager
+- A simple library manager to manage books and members inside of a library
+  ( https://github.com/DrOhm27/Library-manager )
+
 ## 📫 Contact
 - Email: muhamedmujanovic2722005@gmail.com
