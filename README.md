@@ -18,14 +18,6 @@ Microsoft Office Suite | PCB Design (Proteus, Eagle, Circuit Wizard, Multisim, L
  - A clean and simple to-do list application to help organize daily tasks and boost productivity.
  ( https://github.com/DrOhm27/Task-Pilot )
 
-🧠 Flash Cards
- - A smart flash card app for memorizing study material and improving recall through repetition.
- ( https://github.com/DrOhm27/Flash-Cards )
-
- 🧮 Calculator
- - A simple calculator app
-   ( https://github.com/DrOhm27/Calculator )
-
  🏥 Hospital archive
  - A simple hospital archive application to help manage and track employees, patients and hospital departments
    ( https://github.com/DrOhm27/Hospital-archive )
