@@ -10,10 +10,6 @@ Microsoft Office Suite | PCB Design (Proteus, Eagle, Circuit Wizard, Multisim, L
  - A powerful army tracker app for Warhammer 40,000, designed to help players manage armies and stats efficiently.
  ( https://github.com/DrOhm27/Wh40.000-archive )
 
-🕵️ Station 13
- - A story-driven crime-solving video game, combining puzzlesa and logic.
- ( https://github.com/DrOhm27/Station-13 )
-
 🚀 Space Landminer
  - A fast-paced 2D top-down shooter, featuring enemies, weapons, and explosive gameplay.
  ( https://github.com/DrOhm27/Space-Landminer )
