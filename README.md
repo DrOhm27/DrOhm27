@@ -6,9 +6,9 @@ C, C++, C#, JavaScript, HTML, CSS, SQL
 Microsoft Office Suite | PCB Design (Proteus, Eagle, Circuit Wizard, Multisim, LOGO! Comfort, Logisim)  
 
 ## 💼 Projects
-⚔️ WH40k Tracker
+⚔️ WH40.000 archive
  - A powerful army tracker app for Warhammer 40,000, designed to help players manage armies and stats efficiently.
- ( https://github.com/DrOhm27/WH40k-Tracker )
+ ( https://github.com/DrOhm27/Wh40.000-archive )
 
 🕵️ Station 13
  - A story-driven crime-solving video game, combining puzzlesa and logic.
